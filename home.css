@@ -1,0 +1,31 @@
+body{
+    background-image: url("img/chris-liverani-oCsaxvGCehM-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-primary{
+    background-color: black !important;
+    border-color: antiquewhite !important;
+}
+
+.btn-primary:hover{
+    background-color: blue !important;
+    border-radius: 4px;
+}
+h1{
+    font-family: "Open Sans";
+    font-weight: 200;
+    color: white;
+}
+
+form{
+    font-family: "Roboto";
+}
+
+.home{
+    
+    margin-top: 400px;
+    text-align: center;
+}

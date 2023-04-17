@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+.search{
+    align-items: left;
+    text-align: center;
+    font-family: "Roboto";
+}
+h1{
+    font-family: "Raleway";
+    text-align: center;
+}
